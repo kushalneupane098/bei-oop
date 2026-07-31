@@ -1,0 +1,15 @@
+Vehicle Details:
+Make: Toyota
+Year: 2015
+
+Car Details:
+Make: Honda
+Year: 2018
+Number of Doors: 4
+
+Electric Car Details:
+Make: Tesla
+Year: 2023
+Number of Doors: 4
+Battery Capacity: 75.5 kWh
+Range: 500 km

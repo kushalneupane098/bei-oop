@@ -1,0 +1,11 @@
+Circle
+Color: Red
+Area: 78.5397
+
+Rectangle
+Color: Blue
+Area: 24
+
+Triangle
+Color: Green
+Area: 20

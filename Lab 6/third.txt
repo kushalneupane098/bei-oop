@@ -1,0 +1,6 @@
+Professor Details:
+Teacher ID: 101
+Subject: Computer Science
+Research Area: AI
+Publications: 25
+University: MIT
