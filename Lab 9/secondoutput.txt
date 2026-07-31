@@ -1,0 +1,7 @@
+30 20 10
+Stack Overflow
+Cherry Banana Apple
+Cherry
+Banana
+Apple
+Stack Underflow

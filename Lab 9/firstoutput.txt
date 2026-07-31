@@ -1,0 +1,6 @@
+Enter the three numbers(int): [a] [b] [c]
+The maximum of those numbers is [largest integer]
+Enter the three characters(char): [p] [q] [r]
+The maximum of those characters is [largest character]
+Enter the three numbers(double): [m] [n] [o]
+The maximum of those numbers is [largest double]
