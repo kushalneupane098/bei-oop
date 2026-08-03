@@ -1,0 +1,5 @@
+Name: Dracula
+Age: 5
+Fur Color: Black
+Wingspan: 1.5
+Echolocation: Yes

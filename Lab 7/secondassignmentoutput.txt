@@ -1,0 +1,3 @@
+Full Time Employee Salary: 50000
+Part Time Employee Salary: 16000
+Contractor Salary: 90000

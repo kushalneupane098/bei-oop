@@ -1,0 +1,12 @@
+Type: 7Vehicle
+Vehicle destructor
+
+Type: 3Car
+Doors: 4
+Car destructor
+Vehicle destructor
+
+Type: 5Truck
+Payload: 10.5
+Truck destructor
+Vehicle destructor

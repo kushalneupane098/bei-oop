@@ -1,0 +1,9 @@
+Person Details:
+Name: Pratik
+Age: 20
+
+Student Details:
+Name: Aarav
+Age: 22
+Roll No: 101
+GPA: 3.8

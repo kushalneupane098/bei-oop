@@ -1,0 +1,2 @@
+Exception caught inside compute(): Division by Zero
+Exception caught in main(): Division by Zero
