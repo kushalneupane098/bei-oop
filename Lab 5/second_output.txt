@@ -1,0 +1,6 @@
+Original distance: 20 feet 10.5 inches
+After prefix -- (decrease): 19 feet 9.5 inches
+After prefix ++ (increase): 20 feet 10.5 inches
+After multiplying by 2 (Distance * int): 41 feet 9 inches
+After multiplying by 3 (int * Distance): 62 feet 7.5 inches
+Enter your choice (increase or decrease): 20 feet 10.5 inches

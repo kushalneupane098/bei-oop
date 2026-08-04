@@ -1,0 +1,4 @@
+Celsius value: 30 Celsius
+Float extracted: 30
+Converted to Fahrenheit: 86 Fahrenheit
+Another conversion: 50 Fahrenheit

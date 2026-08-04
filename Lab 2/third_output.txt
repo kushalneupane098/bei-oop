@@ -1,6 +1,0 @@
-PS C:\Users\Pratik\Desktop> g++ main.cpp -o main
-PS C:\Users\Pratik\Desktop> .\main
-Enter the currency amount: 100
-Enter the exchange rate: 133.5
-The converted currency is 13350
-PS C:\Users\Pratik\Desktop>

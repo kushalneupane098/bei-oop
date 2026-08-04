@@ -1,7 +1,0 @@
-PS C:\Users\Pratik\Desktop> g++ main.cpp -o main
-PS C:\Users\Pratik\Desktop> .\main
-Enter the name for the bill: Pizza
-Enter the price: 500
-Pizza
-Your total is 550
-PS C:\Users\Pratik\Desktop>

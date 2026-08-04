@@ -1,0 +1,13 @@
+Enter first fraction (num/den): Enter second fraction (num/den): 
+f1 = 3/4
+f2 = 2/5
+
+Addition: 23/20
+Subtraction: 7/20
+Multiplication: 3/10
+Division: 15/8
+
+f1 > f2
+
+Decimal value of f1: 0.75
+Fraction from double (3.141): 3141/1000

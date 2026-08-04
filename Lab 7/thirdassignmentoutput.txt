@@ -1,0 +1,20 @@
+Runtime Type: AudioFile
+Playing audio file
+Audio Duration: 120 sec, Bitrate: 320
+Audio Bitrate: 320
+
+Runtime Type: VideoFile
+Playing video file
+Video Duration: 300 sec, Resolution: 1920x1080
+Video Resolution: 1920x1080
+
+Runtime Type: ImageFile
+Displaying image
+Image Size: 800x600
+
+AudioFile Destructor
+MediaFile Destructor
+VideoFile Destructor
+MediaFile Destructor
+ImageFile Destructor
+MediaFile Destructor

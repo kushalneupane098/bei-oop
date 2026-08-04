@@ -1,0 +1,22 @@
+Enter 4 elements for Matrix A: Enter 4 elements for Matrix B: 
+Matrix A:
+1 2
+3 4
+
+Matrix B:
+5 6
+7 8
+
+A + B:
+6 8
+10 12
+
+A * B:
+19 22
+43 50
+
+-A:
+-1 -2
+-3 -4
+
+Matrices are not equal

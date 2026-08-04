@@ -1,0 +1,5 @@
+Enter a complex number (real imag): Do you wanna add or subtract?(+,-) (7 + 9i)
+c1 = (3 + 4i)
+c2 = (4 + 5i)
+c5 = (1 + 2i)
+c1 and c2 are not equal
