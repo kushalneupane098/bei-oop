@@ -1,0 +1,6 @@
+The area of rectangle is 6
+Thte perimeter of rectangle is 10
+The area of circle is 50.24
+Thte perimeter of circle is 25.12
+The area of triangle is 3.79967
+Thte perimeter of triangle is 11

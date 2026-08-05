@@ -1,0 +1,6 @@
+Enter the title of the book: <input>
+Enter the name of the author of the book: <input>
+Title: <title>Author: <author>
+We have this book
+Is the book returned? (y/n): <input>
+Returned / Not Returned

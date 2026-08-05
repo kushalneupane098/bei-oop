@@ -1,0 +1,6 @@
+Enter the value of radius: 5
+Area: 78.5
+Circumference: 31.4
+Now taking const
+Area: 78.5
+Circumference: 31.4

@@ -1,0 +1,6 @@
+Temperature 1 in Fahrenheit: 77
+Temperature 1 in Kelvin: 298.15
+Temperature 2 in Fahrenheit: 77
+Temperature 2 in Kelvin: 298.15
+Are temperatures equal? Yes
+After changing Temperature 2: No

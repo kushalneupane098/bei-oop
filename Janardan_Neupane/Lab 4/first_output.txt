@@ -1,0 +1,23 @@
+
+
+Enter the name please: Alice
+(d) for deposit and (w) for withdraw: d
+Enter the amount you wanna deposit: 5000
+Alice deposited 5000
+Name: Alice
+Balance: 105000
+----ATM STATISTICS----
+Total Transactions 1
+Total Money Moved 5000
+
+Welcome user
+
+Enter the name please: Bob
+(d) for deposit and (w) for withdraw: w
+Enter the amount you wanna withdraw: 2000
+Bob withdrew 2000
+Name: Bob
+Balance: 98000
+----ATM STATISTICS----
+Total Transactions 2
+Total Money Moved 7000
